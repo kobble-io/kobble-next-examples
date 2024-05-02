@@ -1,5 +1,5 @@
 {
-  "name": "next-auth-example",
+  "name": "simple-auth-example",
   "version": "0.1.0",
   "private": true,
   "scripts": {

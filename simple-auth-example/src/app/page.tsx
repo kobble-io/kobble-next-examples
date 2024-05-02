@@ -5,8 +5,6 @@ import {PoweredBy} from "@/app/components/PoweredBy";
 import {
     LoginButton,
     LogoutButton,
-    PricingLink,
-    ProfileLink,
     SignedIn,
     SignedOut,
     useAuth,
